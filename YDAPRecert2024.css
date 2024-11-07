@@ -1,3 +1,7 @@
 .qrcode {
     visibility: collapse !important;
 }
+
+.inner[_ngcontent-lqv-c180] {
+    height: 10px !important;
+}
